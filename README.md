@@ -1,2 +1,4 @@
 # rosupdpage
-ReactOS Update Page
+<a href="https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html">ReactOS Update Page</a>
+
+&copy;SparrOSDeveloperTeam
